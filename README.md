@@ -7,7 +7,7 @@
 ## 技術的特徴
 
 - Djangoアプリケーション
-- REST API (Django REST flamework)
+- REST API (Django REST framework)
     - 一覧表示
     - 詳細表示
     - 新規投稿
