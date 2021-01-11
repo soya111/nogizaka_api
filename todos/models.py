@@ -41,5 +41,5 @@ class SongMembers(models.Model):
     member_id = models.ForeignKey(Member, on_delete=models.CASCADE)
     song_id = models.ForeignKey(Song, on_delete=models.CASCADE)
 
-    def __str__(self):
-        return self.name
+    # def __str__(self):
+    #     return self.name
